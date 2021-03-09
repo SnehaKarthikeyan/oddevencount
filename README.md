@@ -14,6 +14,10 @@ Ouput Description:
 
 Print the number of odd and even numbers present from 1 to N separated by a space.
 
+Hints:
+
+Traverse numbers and chech odd or even until N(Including N) 
+
 Sample Input:
 
 23
