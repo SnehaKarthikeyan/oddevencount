@@ -16,7 +16,7 @@ Print the number of odd and even numbers present from 1 to N separated by a spac
 
 Hints:
 
-Traverse numbers and chech odd or even until N(Including N) 
+Traverse numbers and check odd or even from 1 to N(Including N) 
 
 Sample Input:
 
